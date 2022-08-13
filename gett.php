@@ -3,7 +3,7 @@
  <style>
         body{
           font-family: 'Open Sans', sans-serif;
-          background:#819BDB;
+          background:#f9ebdf;
           margin: 0 auto 0 auto;  
           width:100%; 
           text-align:center;
